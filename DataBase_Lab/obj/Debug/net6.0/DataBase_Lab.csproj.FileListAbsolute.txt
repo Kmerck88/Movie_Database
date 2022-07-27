@@ -1,0 +1,15 @@
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.csproj.AssemblyReference.cache
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.AssemblyInfoInputs.cache
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.AssemblyInfo.cs
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.csproj.CoreCompileInputs.cache
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\bin\Debug\net6.0\DataBase_Lab.exe
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\bin\Debug\net6.0\DataBase_Lab.deps.json
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\bin\Debug\net6.0\DataBase_Lab.runtimeconfig.json
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\bin\Debug\net6.0\DataBase_Lab.dll
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\bin\Debug\net6.0\DataBase_Lab.pdb
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.dll
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\refint\DataBase_Lab.dll
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.pdb
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\DataBase_Lab.genruntimeconfig.cache
+C:\Grand_Circus\DataBase_Lab\DataBase_Lab\obj\Debug\net6.0\ref\DataBase_Lab.dll
